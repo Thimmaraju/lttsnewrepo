@@ -1,0 +1,5 @@
+cypress/reports
+cypress/videos
+node_modules
+mergedReport.html
+mergedReport.json

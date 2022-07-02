@@ -1,0 +1,7 @@
+class dashBoardPage{
+
+    method(){
+
+        return
+    }
+}
